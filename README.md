@@ -20,3 +20,25 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kjeymax&show_icons=true&locale=en" alt="kjeymax" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kjeymax&" alt="kjeymax" /></p>
+
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--iJzkz8ir--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/d5sdc8q1qlcsbeotkrke.gif)
+
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kjeymax)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kjeymax)  
+
+![GitHub metrics](https://metrics.lecoq.io/kjeymax)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kjeymax)  
+
+
+
