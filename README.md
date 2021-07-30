@@ -25,9 +25,6 @@
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--iJzkz8ir--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/d5sdc8q1qlcsbeotkrke.gif)
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kjeymax)  
