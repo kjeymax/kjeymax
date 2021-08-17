@@ -1,6 +1,6 @@
 <h1 align="center">🇱🇰HITECH</h1>
 <h3 align="center">Technicale Knowldge instantly</h3>
-<center><img src = "https://telegra.ph/file/ef3cd859db2eb1e31f551.jpg"  width = "500" hight = "400"/></center>
+<center><img src = "https://telegra.ph/file/ef3cd859db2eb1e31f551.jpg"  width = "500" hight = "900"/></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kjeymax&label=Profile%20views&color=0e75b6&style=flat" alt="kjeymax" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kjeymax" alt="kjeymax" /></a> </p>
