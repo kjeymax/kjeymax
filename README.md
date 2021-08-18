@@ -1,5 +1,5 @@
-<h1 align="center">🇱🇰HITECH</h1>
-<h3 align="center">Technicale Knowldge instantly</h3>
+<h1 align="center">𝐊𝐚𝐯𝐢𝐧𝐝𝐮 𝐀𝐉</h1>
+<h3 align="center">𝐊𝐧𝐨𝐰𝐥𝐝𝐠𝐞 𝐒𝐞𝐞𝐤𝐞𝐫</h3>
 <center><img src = "https://github.com/kjeymax/kjeymax/blob/main/download.gif"  width = "800" hight = "1000"/></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kjeymax&label=Profile%20views&color=0e75b6&style=flat" alt="kjeymax" /> </p>
 
