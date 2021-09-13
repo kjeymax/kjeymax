@@ -10,9 +10,9 @@
 
 <p align = "center"><img src = "https://github.com/kjeymax/kjeymax/blob/main/nwe.gif" width = "800" hight = "800"/></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kjeymax&label=Profile%20views&color=0e75b6&style=flat" alt="kjeymax" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kjeymax&label=Profile%20views&color=0e75b6&style=flat" alt="kjeymax" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kjeymax&theme=darkhub&column=4" alt="kjeymax" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kjeymax&theme=darkhub&column=4" alt="kjeymax" /></a> </p>
 
 <p align = "center"> 
  <h3 align = "center"> 
@@ -21,7 +21,7 @@
 <p align = "center"><b> 😇 <a href = "https://www.kavinduaj.ml">KAVINDU AJ</a></b></p>
 <p align = "center"><b> 🌐 <a href = "https://lkhitech.blogspot.com">LKHITECH BLOG</a> </b> </p>
 <p align = "center"><b> 💫 <a href ="https://t.me/lkhitech">TG LKHITECH CHANNEL</a></b></p> 
-<p align = "center"><b> 🔔 <a heref ="https://www.youtube.com/c/KavinduAj"</a></b></p>
+<p align = "center"><b> 🔔 <a heref ="https://www.youtube.com/c/KavinduAj">YOUTUBE CHANNEL</a></b></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
