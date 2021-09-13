@@ -1,6 +1,14 @@
-<h1 align="center">𝐊𝐚𝐯𝐢𝐧𝐝𝐮 𝐀𝐉</h1>
-<h3 align="center">𝐊𝐧𝐨𝐰𝐥𝐝𝐠𝐞 𝐒𝐞𝐞𝐤𝐞𝐫</h3>
-<center><img src = "https://github.com/kjeymax/kjeymax/blob/main/download.gif"  width = "800" hight = "1000"/></center>
+<h1 align="center">
+ 𝗛𝗶
+  <img src = "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt = "hand" heigh = "45" width = "45"/>,
+ 𝗜'𝗠 𝗞𝗮𝘃𝗶𝗻𝗱𝘂 𝗔𝗝 😇
+</h1>
+
+<h3 align="center">
+ 𝐊𝐧𝐨𝐰𝐥𝐝𝐠𝐞 𝐒𝐞𝐞𝐤𝐞𝐫
+</h3>
+
+<center><img src = "https://github.com/kjeymax/kjeymax/blob/main/download.gif"  width = "800" hight = "800"/></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kjeymax&label=Profile%20views&color=0e75b6&style=flat" alt="kjeymax" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kjeymax" alt="kjeymax" /></a> </p>
