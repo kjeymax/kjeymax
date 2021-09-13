@@ -8,7 +8,7 @@
  𝐊𝐧𝐨𝐰𝐥𝐝𝐠𝐞 𝐒𝐞𝐞𝐤𝐞𝐫
 </h3>
 
-<center><img src = "https://github.com/kjeymax/kjeymax/blob/main/download.gif"  width = "800" hight = "800"/></center>
+<center><img src = "https://telegra.ph/file/5f0da84099203c506c281.mp4"  width = "800" hight = "800"/></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kjeymax&label=Profile%20views&color=0e75b6&style=flat" alt="kjeymax" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kjeymax" alt="kjeymax" /></a> </p>
