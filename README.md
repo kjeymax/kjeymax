@@ -15,7 +15,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kjeymax&theme=darkhub&column=4" alt="kjeymax" /></a> </p>
 
 
-<p align="center"> <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kjeymax?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a></p>
+<p align="center"> <a href="https://github.com/kjeymax/kjeymax"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=avipatilpro&label=PROFILE%20VISITORS&color=yellowviolet&style=flat-square" alt="avipatilpro" /></a> </p>
 
 
 
