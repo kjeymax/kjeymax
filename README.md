@@ -13,7 +13,14 @@
 <p align="center"> <a href="https://www.kavinduaj.ml"><img src="https://img.shields.io/badge/Website-FF00FF?style=for-the-badge&logo=About.me&logoColor=white"/></a> <a href="https://lkhitech.blogspot.com"><img src="https://img.shields.io/badge/Blog-00CED1?style=for-the-badge&logo=Blogger&logoColor=white"/></a> <a href="https://t.me/lkhitech"><img src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white"/></a> <a href="https://www.youtube.com/c/KavinduAj"><img src="https://img.shields.io/badge/Youtube-FF004F?style=for-the-badge&logo=youtube&logoColor=white"/></a> <a href="https://github.com/kjeymax"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
 
 ## 🧠 Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,php,mysql,postgresql,cpp,cs,go,git,github,linux,docker,aws,gcp,azure,vscode,figma,unrealengine,blender,maya,indesing,aftereffect,illustrator,photoshop&perline=10" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=
+  html,css,js,ts,react,nodejs,python,java,php,
+  mysql,postgresql,cpp,cs,go,git,github,linux,
+  docker,aws,gcp,azure,vscode,figma,unrealengine,
+  blender,maya,indesign,aftereffects,illustrator,
+  photoshop&perline=10" />
+</p>
 
 ## 🏆 Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kjeymax&theme=radical&no-bg=true&no-frame=true&column=6" alt="Trophies"/> </p>
