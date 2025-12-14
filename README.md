@@ -1,4 +1,4 @@
-<!-- ⚡ Kavindu AJ - Cyberpunk Animated GitHub Profile README --> 
+<!-- ⚡ Kavindu AJ - GitHub Profile README --> 
 <h1 align="center"> <span style="color:#ff00ff;">⚡ 𝗛𝗶</span> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="wave" height="45" width="45" />, <span style="color:#00FFFF;">𝗜'𝗠 𝗞𝗮𝘃𝗶𝗻𝗱𝘂 𝗔𝗝 😇</span> </h1> <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00FFFF&center=true&vCenter=true&width=600&lines=💡+Knowledge+Seeker;🚀+Tech+Innovator;🎯+Cyberpunk+Dreamer;💻+Creative+Developer" alt="typing animation" /> </h3>
 
 <p align="center"> <img src="https://github.com/kjeymax/kjeymax/blob/main/nwe.gif" width="800" height="400" alt="neon banner"/> </p>
