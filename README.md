@@ -7,9 +7,6 @@
 
 
 ## ⚡About Me
-<p align="center"> 🔮 I’m a developer fueled by creativity, caffeine, and curiosity.<br> 💡 I love turning ideas into digital experiences that glow in the dark.<br> 🔧 Currently exploring <b>AI • Cloud • Cybersecurity • Full Stack</b>.<br> ⚙️ “Code is my canvas — innovation is my paint.” </p>
-
-## 🌐 Connect With Me
 <p align="center">
   🔮 I’m a developer fueled by creativity, caffeine, and curiosity.<br>
   💡 I love turning ideas into digital experiences that glow in the dark.<br>
@@ -17,6 +14,9 @@
   🔧 Currently exploring <b>AI • Cloud • Cybersecurity • Full Stack Development</b>.<br>
   ⚙️ Code is my canvas — innovation is my paint.
 </p>
+
+
+## 🌐 Connect With Me
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,postgresql,docker,linux,git,github,vscode,figma&perline=8" />
