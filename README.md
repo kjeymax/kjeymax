@@ -27,7 +27,7 @@
 ## 🎨 Creative & 3D Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,indesign,blender,maya,unrealengine&perline=7" />
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,blender,unrealengine&perline=7" />
 </p>
 
 
