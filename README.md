@@ -10,9 +10,13 @@
 <p align="center"> 🔮 I’m a developer fueled by creativity, caffeine, and curiosity.<br> 💡 I love turning ideas into digital experiences that glow in the dark.<br> 🔧 Currently exploring <b>AI • Cloud • Cybersecurity • Full Stack</b>.<br> ⚙️ “Code is my canvas — innovation is my paint.” </p>
 
 ## 🌐 Connect With Me
-<p align="center"> <a href="https://www.kavinduaj.ml"><img src="https://img.shields.io/badge/Website-FF00FF?style=for-the-badge&logo=About.me&logoColor=white"/></a> <a href="https://lkhitech.blogspot.com"><img src="https://img.shields.io/badge/Blog-00CED1?style=for-the-badge&logo=Blogger&logoColor=white"/></a> <a href="https://t.me/lkhitech"><img src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white"/></a> <a href="https://www.youtube.com/c/KavinduAj"><img src="https://img.shields.io/badge/Youtube-FF004F?style=for-the-badge&logo=youtube&logoColor=white"/></a> <a href="https://github.com/kjeymax"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
-
-## 🧠 Tech Stack
+<p align="center">
+  🔮 I’m a developer fueled by creativity, caffeine, and curiosity.<br>
+  💡 I love turning ideas into digital experiences that glow in the dark.<br>
+  🎓 Computer Science graduate with a strong foundation in software engineering, systems design, and problem-solving.<br>
+  🔧 Currently exploring <b>AI • Cloud • Cybersecurity • Full Stack Development</b>.<br>
+  ⚙️ Code is my canvas — innovation is my paint.
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,postgresql,docker,linux,git,github,vscode,figma&perline=8" />
