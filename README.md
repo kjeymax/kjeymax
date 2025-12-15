@@ -15,14 +15,34 @@
   ⚙️ Code is my canvas — innovation is my paint.
 </p>
 
+## 📫 Connect With Me
 
-## 🌐 Connect With Me
+- 🌐 GitHub: **@KavinduAJ**
+- 💬 Always open to collaboration, ideas, and challenging projects
 
+## ⚙️ What I Build
+
+- 🔁 Fully automated systems (RSS → AI → Cloud → Web)
+- 🌐 Full-stack web applications
+- 🤖 AI-assisted pipelines & tools
+- ☁️ Cloud-native and scalable architectures
+- 🎬 Media processing & creative tech workflows
+---
+
+
+## 📡 Current Focus
+
+- Artificial Intelligence & Automation  
+- Cloud Infrastructure & DevOps  
+- Cybersecurity fundamentals  
+- High-performance web platforms  
+
+---
+
+## 🧠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,postgresql,docker,linux,git,github,vscode,figma&perline=8" />
 </p>
-
----
 
 ## 🎨 Creative & 3D Tools
 
