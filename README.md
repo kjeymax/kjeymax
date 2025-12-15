@@ -17,7 +17,7 @@
 
 ## 📫 Connect With Me
 
-- 🌐 GitHub: **@KavinduAJ**
+- 🌐 GitHub: **@kjeymax**
 - 💬 Always open to collaboration, ideas, and challenging projects
 
 ## ⚙️ What I Build
